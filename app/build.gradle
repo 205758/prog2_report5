@@ -29,7 +29,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'Report5.App'
+    mainClass = 'Report5.Main'
 }
 
 tasks.named('test') {
